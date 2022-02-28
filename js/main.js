@@ -91,8 +91,7 @@ const speak = () => {
     }
 };
 
-//set event listeners
-
+//setting event listeners
 // text form submission
 textForm.addEventListener('submit', e => {
     e.preventDefault();
