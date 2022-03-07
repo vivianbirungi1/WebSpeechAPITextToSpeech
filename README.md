@@ -4,8 +4,6 @@ For this final project the decision to look at the design and creating of a text
 
 ![image](https://user-images.githubusercontent.com/48013221/156959809-5f2c0f9e-5fa6-4140-b58a-1b20295628ea.png)
 
-### Project Setup
-
 ## Project setup
 ```
 npm install
