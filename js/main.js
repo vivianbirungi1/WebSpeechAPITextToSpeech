@@ -1,7 +1,7 @@
 // init SpeechSynth API
 const synth = window.speechSynthesis;
 
-// DOM elements
+// DOM elements - all the form elements
 const textForm = document.querySelector('form');
 const textInput = document.querySelector('#text-input');
 const voiceSelect = document.querySelector('#voice-select');
